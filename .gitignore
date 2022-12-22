@@ -1,0 +1,7 @@
+.idea/
+src/external/data/generic_model.pkl
+src/external/data/deca_model.tar
+src/checkpoints/
+src/external/data/*.pkl
+src/external/data/*.zip
+test_case/result
